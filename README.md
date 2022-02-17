@@ -115,8 +115,8 @@ ep_robot.close()
 
 ![image](https://user-images.githubusercontent.com/94228215/154513081-d2732860-6d3f-4944-923f-1e980fe2a1d3.png)
 
+![image](https://user-images.githubusercontent.com/94228215/154513873-70898d75-e166-4dbc-93bc-2d154e610d41.png)
 
-![image](https://user-images.githubusercontent.com/94228215/154513276-d4c80aab-9815-4744-8c2c-ce4bd691df26.png)
 
 
 ## MobileRobot Movement Video:
